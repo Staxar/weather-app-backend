@@ -43,6 +43,9 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# Add .env file
+  WEATHER_KEY={YOUR_API_KEY} from https://openweathermap.org/api
 ```
 
 ## Test
